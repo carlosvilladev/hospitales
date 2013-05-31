@@ -180,6 +180,7 @@ $("#form_m").submit(function(event){
 });
 
 });
+
 var i = 0;
 $("#medico").click(function(){
     i++;
